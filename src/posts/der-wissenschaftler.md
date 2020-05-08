@@ -1,6 +1,6 @@
 ---
 title: "Der Wissenschaftler"
-synopsis: ""
+synopsis: "Scientists are humans, too."
 date: "04/22/20"
 ---
 

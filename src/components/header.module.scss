@@ -1,12 +1,21 @@
+$title-colour: #502274;
+$subtitle-colour: #2E282A;
+$nav-item-colour: #502274;
+$active-nav-item-colour: #380036;
+
 /* Header */
 .header {
     padding: 1rem 0 3rem;
 }
 
 .title {
-    color: #000000;
+    color: $title-colour;
     font-size: 3rem;
     text-decoration: none;
+}
+
+.subtitle {
+    color: $subtitle-colour;
 }
 
 /* Nav items */
@@ -18,7 +27,7 @@
 }
 
 .nav-item {
-    color: #9381FF;
+    color: $nav-item-colour;
     font-size: 1.1rem;
     margin-right: 1.3rem;
     text-decoration: none;
@@ -29,5 +38,6 @@
 }
 
 .active-nav-item {
-    color: #3D2645;
+    color: $active-nav-item-colour;
+    text-decoration: underline;
 }

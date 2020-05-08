@@ -1,21 +1,30 @@
-.posts {
-    list-style-type: none;
-    margin: 0;
+$heading-colour: #502274;
+$title-colour: #8332AC;
+$title-hover-colour: #8B5FBF;
+$synopsis-colour: #2E282A;
+
+.heading {
+    color: $heading-colour;
+    font-size: 35px;
+}
+
+.postDiv {
+    display: flex;
+}
+
+.title {
+    color: $title-colour;
+}
+
+.title:hover {
+    text-decoration: underline;
+    color: $title-hover-colour;
 }
 
 .post {
-    margin: 1rem 0;
 
     a {
-        background: #f4f4f4;
-        color: #000000;
-        display: block;
-        padding: 1rem;
         text-decoration: none;
-    }
-
-    a:hover {
-        background: #e4e4e4;
     }
 
     h2 {
@@ -23,8 +32,8 @@
     }
 
     p {
-        color: #777777;
-        font-size: .8rem;
+        color: $synopsis-colour;
+        font-size: 0.95rem;
         font-style: italic;
     }
 }

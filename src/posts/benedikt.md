@@ -1,6 +1,6 @@
 ---
 title: "Benedikt, der Traumspender"
-synopsis: ""
+synopsis: "The capabilities of the God of Dreams."
 date: "04/28/20"
 ---
 

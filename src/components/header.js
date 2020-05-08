@@ -21,7 +21,7 @@ const Header = () => {
                    {data.site.siteMetadata.title}
                </Link>
            </h1>
-           <h3>
+           <h3 className={headerStyles.subtitle}>
                Creative writing, readings, and some musing.
            </h3>
            <nav>
@@ -31,9 +31,6 @@ const Header = () => {
                    </li>
                    <li>
                         <Link to="/blog" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem}>Blog</Link>
-                   </li>
-                   <li>
-                        <Link to="/about" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem}>About</Link>
                    </li>
                    <li>
                         <Link to="/contact" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem}>Contact</Link>

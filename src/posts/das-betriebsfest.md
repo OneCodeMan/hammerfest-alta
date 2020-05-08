@@ -1,6 +1,6 @@
 ---
 title: "Das Betriebsfest"
-synopsis: ""
+synopsis: "An ideal work party."
 date: "04/24/20"
 ---
 _M1: Mitarbeiter 1_

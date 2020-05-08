@@ -1,6 +1,6 @@
 ---
 title: "Alexa"
-synopsis: ""
+synopsis: "A day in the life of an Alexa owner, through Alexa's POV."
 date: "03/02/20"
 ---
 Ich bin Alexa. Ich bin klein, zylindrisch, und ich habe eine roboterhafte Stimme.

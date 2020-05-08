@@ -1,8 +1,10 @@
 $content-font: Garamond, Georgia, serif;
+$title-colour: #8332AC;
 
 .title {
     font-family: $content-font;
     font-weight: bold;
+    color: $title-colour;
 }
 
 .date {
