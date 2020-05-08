@@ -1,0 +1,16 @@
+$content-font: Garamond, Georgia, serif;
+
+.title {
+    font-family: $content-font;
+    font-weight: bold;
+}
+
+.date {
+    font-weight: italic;
+}
+
+.content {
+    margin-top: 2px;
+    font-family: $content-font;
+    font-size: 18px;
+}

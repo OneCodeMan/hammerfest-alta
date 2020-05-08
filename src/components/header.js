@@ -21,6 +21,9 @@ const Header = () => {
                    {data.site.siteMetadata.title}
                </Link>
            </h1>
+           <h3>
+               Creative writing, readings, and some musing.
+           </h3>
            <nav>
                <ul className={headerStyles.navList}> 
                    <li>
