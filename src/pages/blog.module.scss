@@ -1,11 +1,13 @@
 $heading-colour: #502274;
+$heading-font-size: 35px;
 $title-colour: #8332AC;
 $title-hover-colour: #8B5FBF;
 $synopsis-colour: #2E282A;
+$synopsis-font-size: 0.95rem;
 
 .heading {
     color: $heading-colour;
-    font-size: 35px;
+    font-size: $heading-font-size;
 }
 
 .postDiv {
@@ -33,7 +35,7 @@ $synopsis-colour: #2E282A;
 
     p {
         color: $synopsis-colour;
-        font-size: 0.95rem;
+        font-size: $synopsis-font-size;
         font-style: italic;
     }
 }
