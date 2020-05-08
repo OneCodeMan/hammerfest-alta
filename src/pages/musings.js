@@ -27,11 +27,11 @@ const BlogPage = () => {
 
     return (
         <Layout>
-            <h1 className={blogStyles.heading}>Stories</h1>
+            <h1 className={blogStyles.heading}>Musings</h1>
             <ul className={blogStyles.posts}>
                 {data.allMarkdownRemark.edges.map((edge) => {
                     return (
-                        edge.node.frontmatter.type === "story" ? 
+                        edge.node.frontmatter.type === "musing" ? 
                         <li className={blogStyles.post}>
                             <Link to={`/blog/${edge.node.fields.slug}`}>
                               <h2 className={blogStyles.title}>{edge.node.frontmatter.title}</h2>

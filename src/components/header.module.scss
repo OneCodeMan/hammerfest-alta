@@ -1,6 +1,7 @@
 $title-colour: #502274;
 $subtitle-colour: #2E282A;
 $nav-item-colour: #502274;
+$nav-item-hover-colour: #7871AA;
 $active-nav-item-colour: #380036;
 
 /* Header */
@@ -34,7 +35,7 @@ $active-nav-item-colour: #380036;
 }
 
 .nav-item:hover {
-    color: #7871AA;
+    color: $nav-item-hover-colour;
 }
 
 .active-nav-item {

@@ -1,5 +1,14 @@
 $heading-title-colour: #502274;
+$paragraph-text-colour: black;
+$paragraph-text-size: 18px;
+$paragraph-font: Garamond, Georgia, serif;
 
 .heading {
     color: $heading-title-colour;
+}
+
+.description {
+    color: $paragraph-text-colour;
+    font-size: $paragraph-text-size;
+    font-family: $paragraph-font;
 }

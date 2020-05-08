@@ -1,4 +1,5 @@
 ---
+type: "story"
 title: "Der Wissenschaftler"
 synopsis: "Scientists are humans, too."
 date: "04/22/20"

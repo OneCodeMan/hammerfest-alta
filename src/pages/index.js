@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'gatsby';
 
 import Layout from '../components/layout';
 import indexStyles from './index.module.scss';
@@ -24,7 +23,7 @@ const IndexPage = () => {
             <ul>
                 <li>German stories that will make you laugh 😂, cry 😭, and feel alive. 🙌</li>
                 <li>Some material I use to study German. 📄</li>
-                <li>Musings about topics that interest me. 📝</li>
+                <li>Musings on topics that interest me. 📝</li>
                 <li>Fun 🎉</li>
             </ul>
             <p className={indexStyles.description}>

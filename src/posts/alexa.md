@@ -1,4 +1,5 @@
 ---
+type: "story"
 title: "Alexa"
 synopsis: "A day in the life of an Alexa owner, through Alexa's POV."
 date: "03/02/20"

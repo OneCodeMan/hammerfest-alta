@@ -1,4 +1,5 @@
 ---
+type: "story"
 title: "Hidas"
 synopsis: "A hilarious parody of Midas."
 date: "05/05/20"

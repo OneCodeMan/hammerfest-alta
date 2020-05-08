@@ -7,7 +7,7 @@ const ContactPage = () => {
     return (
         <Layout>
             <h1 className={contactStyles.heading}>Contact</h1>
-            <p><a href="https://github.com/onecodeman" target="_blank">OneCodeMan</a> on Github :D</p>
+            <p className={contactStyles.description}>You can find me on <a href="https://github.com/onecodeman" target="_blank">Github</a>.</p>
         </Layout>
     )
 }

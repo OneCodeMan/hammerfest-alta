@@ -1,4 +1,5 @@
 ---
+type: "story"
 title: "Benedikt, der Traumspender"
 synopsis: "The capabilities of the God of Dreams."
 date: "04/28/20"

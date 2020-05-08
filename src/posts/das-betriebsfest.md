@@ -1,4 +1,5 @@
 ---
+type: "story"
 title: "Das Betriebsfest"
 synopsis: "An ideal work party."
 date: "04/24/20"
