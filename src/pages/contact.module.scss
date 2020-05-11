@@ -1,7 +1,7 @@
-$heading-title-colour: #502274;
-$paragraph-text-colour: black;
-$paragraph-text-size: 18px;
-$paragraph-font: Garamond, Georgia, serif;
+$heading-title-colour: #CC59D2;
+$paragraph-text-colour: #F6F7EB;
+$paragraph-text-size: 20px;
+$paragraph-font: "Avenir Next";
 
 .heading {
     color: $heading-title-colour;
@@ -11,4 +11,10 @@ $paragraph-font: Garamond, Georgia, serif;
     color: $paragraph-text-colour;
     font-size: $paragraph-text-size;
     font-family: $paragraph-font;
+}
+
+.contact {
+    a:visited {
+        color: #CC58D2;
+    }
 }

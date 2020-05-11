@@ -7,7 +7,7 @@ const IndexPage = () => {
 
     return (
         <Layout>
-            <h1 className={indexStyles.heading}>Hello.</h1>
+            <h1 className={indexStyles.heading}>Hello!</h1>
             <p className={indexStyles.description}>
                 Welcome to my blog! 😃
                 <br />

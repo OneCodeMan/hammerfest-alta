@@ -32,12 +32,13 @@ const BlogPage = () => {
                 {data.allMarkdownRemark.edges.map((edge) => {
                     return (
                         edge.node.frontmatter.type === "story" ? 
-                        <li className={blogStyles.post}>
-                            <Link to={`/blog/${edge.node.fields.slug}`}>
+                        <Link to={`/blog/${edge.node.fields.slug}`}>
+                          <li className={blogStyles.post}>
                               <h2 className={blogStyles.title}>{edge.node.frontmatter.title}</h2>
                               <p>{edge.node.frontmatter.synopsis}</p>
-                            </Link>
-                        </li> : <div></div>
+                          </li>
+                        </Link>
+                           : <div></div>
                     )
                 })}
             </ul>

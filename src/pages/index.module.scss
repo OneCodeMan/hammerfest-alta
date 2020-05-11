@@ -1,7 +1,7 @@
-$heading-title-colour: #502274;
-$paragraph-text-colour: black;
+$heading-title-colour: #CC59D2;
+$paragraph-text-colour: #F6F7EB;
 $paragraph-text-size: 18px;
-$paragraph-font: Garamond, Georgia, serif;
+$paragraph-font: "Avenir Next";
 
 .description {
     color: $paragraph-text-colour;
@@ -15,4 +15,5 @@ $paragraph-font: Garamond, Georgia, serif;
 
 li {
     font-size: $paragraph-text-size;
+    color: $paragraph-text-colour;
 }
