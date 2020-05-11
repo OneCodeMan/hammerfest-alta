@@ -6,8 +6,11 @@ import contactStyles from './contact.module.scss';
 const ContactPage = () => {
     return (
         <Layout>
-            <h1 className={contactStyles.heading}>Contact</h1>
-            <p className={contactStyles.description}>You can find me on <a href="https://github.com/onecodeman" target="_blank">Github</a>.</p>
+            <div className={contactStyles.contact}>
+                <h1 className={contactStyles.heading}>Contact</h1>
+                <p className={contactStyles.description}>You can find me on <a href="https://github.com/onecodeman" target="_blank" >Github</a>.
+                </p>
+            </div>
         </Layout>
     )
 }

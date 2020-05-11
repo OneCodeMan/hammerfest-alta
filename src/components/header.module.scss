@@ -1,8 +1,9 @@
-$title-colour: #502274;
-$subtitle-colour: #2E282A;
-$nav-item-colour: #502274;
-$nav-item-hover-colour: #7871AA;
-$active-nav-item-colour: #380036;
+$title-colour: #CC59D2;
+$subtitle-colour: #FBFBFB;
+$nav-item-colour: #CC59D2;
+$nav-item-hover-colour: #FBFBFB;
+$nav-active-colour: #EFABFF;
+$general-font-family: "Avenir Next";
 
 /* Header */
 .header {
@@ -13,10 +14,12 @@ $active-nav-item-colour: #380036;
     color: $title-colour;
     font-size: 3rem;
     text-decoration: none;
+    font-family: $general-font-family;
 }
 
 .subtitle {
     color: $subtitle-colour;
+    font-family: $general-font-family;
 }
 
 /* Nav items */
@@ -39,6 +42,6 @@ $active-nav-item-colour: #380036;
 }
 
 .active-nav-item {
-    color: $active-nav-item-colour;
-    text-decoration: underline;
+    font-weight: bold;
+    color: $nav-active-colour;
 }

@@ -1,7 +1,11 @@
+$content-colour: #F6F7EB;
+$title-colour: #CC59D2;
+
 .container {
     margin: 0 auto;
     max-width: 750px;
     padding: 1rem;
+    color: $content-colour;
 
     display: flex;
     flex-direction: column;
