@@ -1,7 +1,7 @@
 ---
 type: "story"
 title: "Alexa"
-synopsis: "A day in the life of an Alexa owner, through Alexa's POV."
+synopsis: "A day in the life of an Alexa owner, through Alexa's POV. (DE/EN)"
 date: "03/02/20"
 ---
 Ich bin Alexa. Ich bin klein, zylindrisch, und ich habe eine roboterhafte Stimme.

@@ -1,7 +1,7 @@
 ---
 type: "story"
 title: "Das Betriebsfest"
-synopsis: "An ideal work party."
+synopsis: "An ideal work party. (DE/EN)"
 date: "04/24/20"
 ---
 _M1: Mitarbeiter 1_
@@ -105,13 +105,13 @@ _M2: Employees 2_
 
 Adults. There is no manual for how to become one. Maybe you think that college is gonna kick your ass.
 You think, "Damn, there are so many papers and the lectures are extremely boring. But not only that,
-the exam phase is coming soon. Oh, shit!"
+the exam season is coming soon. Oh, shit!"
 
-But, let me tell you, life after graduation is harder. How do you make friends in the real world
-find? You have to remain skilled in the workplace. Everyone seems to have friends already.
+But, let me tell you, life after graduation is harder. How do you make friends in the real world?
+You have to remain professional in the workplace. Everyone seems to have friends already.
 You feel lonely. People are not as friendly as they used to be.
 
-Here is a report about a company party where friendships are made.
+Here is a report about a company party where a beautiful friendship is made.
 
 M1:
 I am sporty, definitely. I climb and I like doing Parkour. Not so much lately,
@@ -127,7 +127,7 @@ M2:
 Oh.
 
 M1:
-I know, I'm drunk.
+I know, I'm fucked up.
 
 M2:
 No, no. I don't think that at all. I also did a lot of therapy. 
