@@ -1,0 +1,54 @@
+$page-background-colour: #1E2227;
+$heading-colour: #CC59D2;
+$heading-font-size: 35px;
+$title-colour: #F6F7EB;
+$div-hover-colour: #282C34;
+$synopsis-colour: #F6F7EB;
+$synopsis-font-size: 0.95rem;
+$general-font-family: "Avenir Next";
+
+body {
+    background-color: $page-background-colour;
+    font-family: $general-font-family;
+}
+
+.heading {
+    color: $heading-colour;
+    font-size: $heading-font-size;
+}
+
+.postDiv {
+    display: flex;
+}
+
+.title {
+    color: $title-colour;
+}
+
+.post {
+
+    border-bottom: solid 0.02px;
+    list-style-type: none;
+    padding: 10px;
+    text-decoration: underline;
+    text-decoration-color: $page-background-colour; // for some reason, there are purple underlines so this is a workaround
+
+    a {
+        text-decoration: none;
+    }
+
+    h2 {
+        margin-bottom: 0;
+        letter-spacing: 0.4px;
+    }
+
+    p {
+        color: $synopsis-colour;
+        font-size: $synopsis-font-size;
+        font-style: italic;
+    }
+}
+
+.post:hover {
+    background-color: #282C34;
+}

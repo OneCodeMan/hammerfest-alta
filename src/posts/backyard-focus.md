@@ -1,5 +1,5 @@
 ---
-type: "story"
+type: "story(needprermiss)"
 title: "Ody und Laughthaniel Riot Smoking in the Backyard During Quarantine"
 synopsis: "Two friends meet up to smoke while their sentient smoking devices befriend one another. Restaurant focus style."
 date: "12.10.20"
