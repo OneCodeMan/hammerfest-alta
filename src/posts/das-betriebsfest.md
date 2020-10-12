@@ -98,3 +98,99 @@ Ich sehe die Zukunft jetzt positiver!
 Mach das Beste aus dem, was du hast.
 Es wird nicht immer so sein.
 
+.......
+
+_M1: Employee 1_
+_M2: Employees 2_
+
+Adults. There is no manual for how to become one. Maybe you think that college is gonna kick your ass.
+You think, "Damn, there are so many papers and the lectures are extremely boring. But not only that,
+the exam phase is coming soon. Oh, shit!"
+
+But, let me tell you, life after graduation is harder. How do you make friends in the real world
+find? You have to remain skilled in the workplace. Everyone seems to have friends already.
+You feel lonely. People are not as friendly as they used to be.
+
+Here is a report about a company party where friendships are made.
+
+M1:
+I am sporty, definitely. I climb and I like doing Parkour. Not so much lately,
+but ideally every day.
+
+M2: 
+I think that's really great. Why not so much lately? Are you busy with work?
+
+M1:
+Uh, no. Um, I've been in therapy.
+
+M2:
+Oh.
+
+M1:
+I know, I'm drunk.
+
+M2:
+No, no. I don't think that at all. I also did a lot of therapy. 
+Mainly DBT and CBT. But nowadays I consume THC.
+
+M1:
+Oh, CBT is awesome.
+
+M2: 
+Exactly. It gives you so many cognitive distortions. The brain is an asshole.
+
+M1:
+But it can become a weapon if you learn to use it well.
+
+M2:
+That's right. Every time I have negative thoughts, I fight it with a positive thought.
+But it's a work in progress.
+
+M1:
+Do you have any examples?
+
+M2:
+Yes, when I'm in a boring meeting or when the subway is late, I think to myself 
+"What a good time to be patient."
+
+M1:
+Awesome!
+
+M2:
+Ha-ha-ha.
+
+M1:
+Have you ever drunk a Red Caesar?
+
+M2:
+No, what is it?
+
+*five minutes later*
+
+M2: 
+Bah, it tastes so disgusting!
+
+M1: 
+Haha, it tastes very good to me!
+
+M2:
+You are crazy, you are a psychopath!
+
+*five shot later*
+
+M2:
+Dude, I'm glad we've become friends. 
+I find it hard. Nobody is honest anymore.
+
+M1:
+I find that too. It's really nice to meet you.
+
+M2:
+Wooooo!
+
+M1:
+I see the future more positive now!
+
+Make the best of what you have.
+It will not always be like this.
+

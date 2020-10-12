@@ -22,3 +22,21 @@ Benedikt verwendet ihn als Energie, um böse Traumgeister zu bekämpfen.
 
 Benedikt ist ein großzügiger Ehrenmann.
 
+.....
+
+Ah, Benedikt, he watches over your dreams. How can you have sweet dreams, or conscious dreams?
+You have to meditate for 20 minutes, then prepare a snack. The snack consists of
+a baked potato with half a spoon of turmeric.
+
+If you want to dream about love, light a candle and place it near the snack.
+
+If you want to dream about peaceful old age, light two candles instead.
+
+If you want to dream about family and friends, cut the potato into six pieces.
+
+If you want to dream about success, put two pecans next to the potato.
+
+If you want to avoid nightmares, make a decaffeinated coffee. 
+Benedict uses it as energy to fight evil dream spirits.
+
+Benedikt is a generous gentleman.
